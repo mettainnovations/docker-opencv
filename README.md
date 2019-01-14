@@ -7,6 +7,3 @@ Contém as imagens de mettainnovations/opencv no Dockerhub. Estas imagens tem co
 3. **3-4-4**: OpenCV compilada para rodar em CPU
 4. **3-4-4-cuda-10-0**: OpenCV compilada para rodar em GPU(CUDA Toolkit 10.0)
 
-## TODO List
-
-1. Remover os diretórios **opencv-3-4-3** e **opencv-3-4-4**. Motivo: Nova regra de nomenclatura.
